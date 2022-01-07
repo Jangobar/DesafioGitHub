@@ -1,0 +1,3 @@
+Link para download do git bash: https://git-scm.com/downloads
+
+- O git bash nada mais é do que um terminal e uma extensão do git hub até a máquina local para que se possa estabelecer uma relação de otimização na criação e desenvolvimento do códigos
